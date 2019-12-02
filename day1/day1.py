@@ -2,7 +2,7 @@ import math
 
 
 def calculate(mass):
-    return math.floor(float(mass) / 3.0) - 2
+    return mass // 3 - 2
 
 
 def recurse(int_input):

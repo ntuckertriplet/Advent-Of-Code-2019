@@ -1,6 +1,3 @@
-import math
-
-
 def calculate(mass):
     return mass // 3 - 2
 
